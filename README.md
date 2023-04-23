@@ -1,2 +1,1 @@
-# Ml-CSIT
-Projects
+# MachineLearning
